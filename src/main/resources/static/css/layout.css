@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+h1{
+	color:#F00;
+	background-color:#2A9921;
+/* 	font:normal 50px Trebuchet MS,Tahoma; */
+	text-align:center;
+}
